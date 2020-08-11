@@ -1,5 +1,5 @@
 FROM python:3.8.5
-MAINTAINER Jonathan Foster <jonathan@jonathanfoster.io>
+MAINTAINER Gareth Conway
 
 RUN apt-get update \
     && apt-get install -y \
